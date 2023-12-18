@@ -40,6 +40,7 @@ params:
   specialPages:
     - photography
     - art
+    - contact
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -62,18 +63,21 @@ permalinks:
 
 menu:
   main:
-    - name: about
+    - name: about me
       url: /about
       weight: 1
-    - name: photography
+    - name: my photography
       url: /photography
       weight: 2
    # - name: art
    #   url: /art
    #   weight: 3
-    - name: contact
-      url: /contact
+    - name: contact me
+      url: https://links.seth.nz
       weight: 4
+    #- name: links
+    #  url: https://links.seth.nz
+    #  weight: 4
   photography:
     - name: people
       url: /photography/portraits

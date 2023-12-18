@@ -16,7 +16,80 @@ hideDate: true
     justify-content: center;
     align-items: center;
   }
+/* Button 3 LinkedIn */
+  .custom-button-3  {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #0077B5;
+    width: 250px;
+    transition: background-color 0.3s, filter 0.3s, border-color 0.3s;
+    border: 2px solid transparent; /* Add transparent border */
+    box-sizing: border-box; /* Include border in dimensions */
+  }
+
+
+  .custom-button-3:hover {
+    background-color: #BFBFBF;
+    border-color: #BFBFBF; /* Change border color when hovering */
+    filter: brightness(100%); /* Increase brightness by 10% */
+  }
+
+  .custom-button-3:hover .text {
+    color: white;
+  }
+
+  .custom-button-3 .icon {
+    margin-right: 10px;
+  }
+
+  .custom-button-3 .text {
+    text-align: center;
+    flex-grow: 1;
+    color: #ffffff
+  }
+
+/* Button 2 Instagram */
+  .custom-button-2  {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    width: 250px;
+    transition: background-color 0.3s, filter 0.3s, border-color 0.3s;
+    border: 0px solid transparent; /* Add transparent border */
+    box-sizing: border-box; /* Include border in dimensions */
+  }
+
+  .custom-button-2:hover {
+    background-color: #BFBFBF;
+    border-color: #BFBFBF; /* Change border color when hovering */
+    filter: brightness(210%); /* Increase brightness by 10% */
+  }
+
+  .custom-button-2:hover .text {
+    color: yellow;
+  }
+
+  .custom-button-2 .icon {
+    margin-right: 10px;
+  }
+
+  .custom-button-2 .text {
+    text-align: center;
+    flex-grow: 1;
+    transition: color 0.3s;
+  }
+
 /* Button 1 */
+ .custom-button-container-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .custom-button-1  {
     display: flex;
     align-items: center;
@@ -48,137 +121,7 @@ hideDate: true
     flex-grow: 1;
     transition: color 0.3s;
   }
-/* Button 2 */
- .custom-button-container-2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
 
-  .custom-button-2  {
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #f0f0f0;
-    width: 250px;
-    transition: background-color 0.3s, filter 0.3s, border-color 0.3s;
-    border: 2px solid transparent; /* Add transparent border */
-    box-sizing: border-box; /* Include border in dimensions */
-  }
-
-  .custom-button-2:hover {
-    background-color: #BFBFBF;
-    border-color: #BFBFBF; /* Change border color when hovering */
-    filter: brightness(210%); /* Increase brightness by 10% */
-  }
-
-  .custom-button-2:hover .text {
-    color: yellow;
-  }
-
-  .custom-button-2 .icon {
-    margin-right: 10px;
-  }
-
-  .custom-button-2 .text {
-    text-align: center;
-    flex-grow: 1;
-    transition: color 0.3s;
-  }
-
-/* Button 3 */
- .custom-button-container-3 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .custom-button-3  {
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #f0f0f0;
-    width: 250px;
-    transition: background-color 0.3s, filter 0.3s, border-color 0.3s;
-    border: 2px solid transparent; /* Add transparent border */
-    box-sizing: border-box; /* Include border in dimensions */
-  }
-
-  .custom-button-3:hover {
-    background-color: #BFBFBF;
-    border-color: #BFBFBF; /* Change border color when hovering */
-    filter: brightness(210%); /* Increase brightness by 10% */
-  }
-
-  .custom-button-3:hover .text {
-    color: yellow;
-  }
-
-  .custom-button-3 .icon {
-    margin-right: 10px;
-  }
-
-  .custom-button-3 .text {
-    text-align: center;
-    flex-grow: 1;
-    transition: color 0.3s;
-  }
-
-
-/* Donate */
- .donate-button-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .donate-button  {
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    border-radius: 10px;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-    width: 250px;
-    transition: background-color 0.3s, filter 0.3s, border-color 0.3s;
-    border: 2px solid transparent; /* Add transparent border */
-    box-sizing: border-box; /* Include border in dimensions */
-  }
-
-  .donate-button:hover {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    animation: gradient 15s ease infinite;
-    background-size: 400% 400%;
-    filter: brightness(210%); /* Increase brightness by 10% */
-  }
-
-  .donate-button:hover .text {
-    color: yellow;
-  }
-
-  .donate-button .icon {
-    margin-right: 10px;
-  }
-
-  .donate-button .text {
-    text-align: center;
-    flex-grow: 1;
-    transition: color 0.3s;
-  }
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
 </style>
 
 <div align="center">
@@ -211,7 +154,6 @@ hideDate: true
   </a>
 </div>
 <br>
-
 
 <div align="center">
     <h3>like my work? donate below.</h3>

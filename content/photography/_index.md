@@ -72,12 +72,8 @@ url: photography
 
 **Welcome to my photography portfolio!** With a journey in photography that began in 2017, I've witnessed the powerful resonance of imagery, with some of my work garnering an incredible 900k views worldwide.
 
-**Photography has always held a special allure for me,** capturing light through the lens in both digital and analogue realms. I approach photography with an open mind, embracing various genres like Abstract, Architectural, and Portraiture to express my creative vision.
-
-**Immerse yourself in my portfolio,** where you will discover a diverse collection of images that span different genres and showcase the rich tapestry of the human experience. Thank you for visiting, and I hope my photography leaves a lasting impression.
-
-<strong> Showcased below is my personally curated work, <br> 
-If you are interested in purchasing my work or requesting commissions please 
+<strong> Showcased below is my personally curated work. <br> 
+If you are interested in collaborations or wish to request a commission please 
 <a style="color: #7EC2E6;" href="https://seth.nz/contact">Contact Me</a> </strong>
 
 

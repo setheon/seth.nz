@@ -95,7 +95,7 @@ hideDate: true
 
   var imageUrl = "/images/author.png"; // Replace with the actual path to your image
 
-  var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills and passion for the visual arts/film. <br> <br> <b> Immerse yourself in my creative portfolio </b> and explore the various projects I have undertaken. Whether you are seeking a collaborator for your next creative endeavor or simply appreciate art in its many forms, I hope that my work resonates with you and inspires you in some way. <br> <br> <b> This website 'seth.nz' serves as a digital sanctuary for my creative work. </b> Here, you will find a carefully curated collection of my graphic design and photography projects, showcasing my ability to blend aesthetics with purpose, while conveying unique narratives. As my journey progresses, I am excited to expand my creative horizons into the realm of videography, where I aim to craft compelling visual stories that resonate with audiences.";
+  var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills & passion for the visual arts/film. <br> <br> <b>✨ I originally hail from Tauranga here in New Zealand,</b> but I now mostly reside in the bustling artistic capital city of New Zealand, <b>Wellington!</b> I initially moved to the city for work but soon found my heart being drawn to heading to University to pursure my creative dreams in the Film Industry. <br><br> 🏔 <b> In my free time, I'm often found going on Hikes or small city adventures with my camera. </b> I love to capture the world around me & I'm typically not found without my camera near. When I'm not taking photos or hiking, I typically spend my time dabbling in various forms of art, from sketching to digital art or creating music.";
 
   // Create the HTML string with both text and image
   var htmlString = "<div id='content-container'><p>" + text + "</p><img id='author-image' src='" + imageUrl + "' alt=''></div>";
@@ -125,11 +125,21 @@ hideDate: true
     }
 
     #author-image {
-      margin-top: 0; /* Reset margin for desktop view */
-      max-width: 300px;
+      max-width: 100%;
+      width: 300px;
+      margin-right: 50px; /* Increase the space between text and image */
     }
-  }
+}
 </style>
+
+<div align="center">
+    <h2>about my portfolio site.</h2>
+</div>
+
+
+<b>Currently this website '<i>seth.nz</i>' serves as a digital sanctuary & portfolio for all my best creative work. <br> </b> 
+
+Here, you will find a carefully curated collection of my photography & my other creative projects. As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking where I aim to craft compelling visual stories that resonate with audiences.<b>In late 2023, I started to plan my first major Film,</b> a small sci-fi short called <b>Sol.</b> I quickly gathered a large crew & secured the means to start pre-production. The film will commence shooting in March 2024 & will continute for several months. <b>Sol</b> is a very ambitious project, with a large crew of over 25 people now. A team of 6 VFX artists, 3 actors, 2 stunt actors & a large crew. <br><br>
 
 <br>
 
