@@ -1,0 +1,3 @@
+[submodule "eternity"]
+	path = eternity
+	url = https://github.com/boratanrikulu/eternity.git
