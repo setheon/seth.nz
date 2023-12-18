@@ -95,7 +95,7 @@ hideDate: true
 
   var imageUrl = "/images/author.png"; // Replace with the actual path to your image
 
-  var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills and passion for the visual arts/film. <br>";
+  var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills and passion for the visual arts/film. <br> <br> <b> Immerse yourself in my creative portfolio </b> and explore the various projects I have undertaken. Whether you are seeking a collaborator for your next creative endeavor or simply appreciate art in its many forms, I hope that my work resonates with you and inspires you in some way. <br> <br> <b> This website 'seth.nz' serves as a digital sanctuary for my creative work. </b> Here, you will find a carefully curated collection of my graphic design and photography projects, showcasing my ability to blend aesthetics with purpose, while conveying unique narratives. As my journey progresses, I am excited to expand my creative horizons into the realm of videography, where I aim to craft compelling visual stories that resonate with audiences.";
 
   // Create the HTML string with both text and image
   var htmlString = "<div id='content-container' style='overflow: hidden;'><p style='max-width: calc(100% - 320px); float: left;'>" + text + "</p><img id='author-image' src='" + imageUrl + "' alt=''></div>";
@@ -126,40 +126,6 @@ hideDate: true
 </style>
 
 <br>
-
-<div align="center">
-    <h3>like my work? donate below.</h3>
-</div>
-
-
-<div class="donate-button-container">
-  <a href="https://www.buymeacoffee.com/setheon/" class="donate-button">
-    <span style="color: #ffffff;" class="fab fa-dollar fa-lg"></span>
-    <span style="color: #ffffff; font-family:Open Sans Bold;" class="text">Buy me a Coffee</span>
-  </a>
-</div>
-
-
-<div align="center">
-<h1 style="color: #FF7A59"> what is seth.nz? </h1>
-</div>
-
-**My website 'seth.nz' serves as a digital sanctuary for my creative work.** Here, you will find a carefully curated collection of my graphic design and photography projects, showcasing my ability to blend aesthetics with purpose, while conveying unique narratives. As my journey progresses, I am excited to expand my creative horizons into the realm of videography, where I aim to craft compelling visual stories that resonate with audiences.
-
-**Immerse yourself in my creative portfolio** and explore the various projects I have undertaken. Whether you are seeking a collaborator for your next creative endeavor or simply appreciate art in its many forms, I hope that my work resonates with you and inspires you in some way.
-
-**Thank you for visiting my portfolio website,** and I look forward to connecting with you soon. 
-<br> Make sure to check out the other pages on this website. 
-<br> I suggest starting out with <a style="color: #7EC2E6;" href="https://seth.nz/graphics">Graphic Design</a> </strong> then moving onto the <a style="color: #7EC2E6;" href="https://seth.nz/photography">Photography</a> </strong> page.
-
-
-
-<div align="center">
-<h1 style="color: #FF7A59"> thank you for visiting my portfolio</h1>
-</div>
-
-
-
 
 <div align="center">
     <h3>like my work? donate below.</h3>
