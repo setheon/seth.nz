@@ -1,5 +1,5 @@
 ---
-weight: 997
+weight: 940
 images:
 - /images/photography/abstract/giveway.jpg
 title: Giveway Sign in Bush 2023

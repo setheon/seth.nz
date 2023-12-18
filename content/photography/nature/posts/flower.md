@@ -1,4 +1,5 @@
 ---
+weight: 980
 images:
 - /images/photography/nature/flower.jpg
 - /images/photography/nature/flower_B&W.jpg

@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 930
 images:
 - /images/photography/nature/wainuiomata/3.jpg
 - /images/photography/nature/wainuiomata/2.jpg

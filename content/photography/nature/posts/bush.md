@@ -1,5 +1,5 @@
 ---
-weight: 998
+weight: 920
 images:
 - /images/photography/nature/otariwilton/bush_1.jpg
 title: Otari Wilton Bush
