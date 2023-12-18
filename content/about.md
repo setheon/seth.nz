@@ -98,28 +98,34 @@ hideDate: true
   var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills and passion for the visual arts/film. <br> <br> <b> Immerse yourself in my creative portfolio </b> and explore the various projects I have undertaken. Whether you are seeking a collaborator for your next creative endeavor or simply appreciate art in its many forms, I hope that my work resonates with you and inspires you in some way. <br> <br> <b> This website 'seth.nz' serves as a digital sanctuary for my creative work. </b> Here, you will find a carefully curated collection of my graphic design and photography projects, showcasing my ability to blend aesthetics with purpose, while conveying unique narratives. As my journey progresses, I am excited to expand my creative horizons into the realm of videography, where I aim to craft compelling visual stories that resonate with audiences.";
 
   // Create the HTML string with both text and image
-  var htmlString = "<div id='content-container' style='overflow: hidden;'><p style='max-width: calc(100% - 320px); float: left;'>" + text + "</p><img id='author-image' src='" + imageUrl + "' alt=''></div>";
+  var htmlString = "<div id='content-container'><p>" + text + "</p><img id='author-image' src='" + imageUrl + "' alt=''></div>";
 
   // Display the HTML string
   document.write(htmlString);
 </script>
 
 <style>
+  #content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   #author-image {
     max-width: 100%;
     width: 300px;
+    margin-top: 20px; /* Add some space between text and image */
   }
 
   @media (min-width: 768px) {
     /* Desktop styles */
     #content-container {
-      display: flex;
-      align-items: center;
+      flex-direction: row;
+      justify-content: space-between;
     }
 
     #author-image {
-      float: right;
-      margin-left: 20px;
+      margin-top: 0; /* Reset margin for desktop view */
       max-width: 300px;
     }
   }
