@@ -1,0 +1,29 @@
+<div class="content has-text-centered">
+
+    {{ if not .Site.Params.DontShowSource}}
+        <p>
+            <strong>Follow my socials:</strong> <br>
+            <i class="fab fa-instagram fa-lg"></i>
+            <a target="_blank" class="source-love" href="https://instagram.com/setheon.nz">
+                <span style="color: #e1e1e1;;">@setheon.nz</span></a>
+                &nbsp; ⋄  &nbsp; 
+            <i style="color: #ffffff;" class="fab fa-instagram fa-lg"></i>
+            <a target="_blank" class="source-love" href="https://instagram.com/setheon.art">
+                <span style="color: #e1e1e1;">@setheon.art</span></a>
+                &nbsp; ⋄  &nbsp; 
+            <i style="color: #ffffff;" class="fab fa-youtube fa-lg"></i>
+            <a target="_blank" class="source-love" href="https://youtube.com/@kiwiseth">
+                <span style="color: #e1e1e1;">@kiwiseth</span></a>
+
+                <p>
+                    {{ with .Site.Params.Copyright }}
+                        {{ . }} <br>
+                    {{ end }}
+                    {{ with .Site.Params.Author }}
+                        © {{ dateFormat "2006" now }}, {{ . }}.
+                    {{ end }}
+                </p>  
+
+        </p>
+    {{ end }}
+</div>

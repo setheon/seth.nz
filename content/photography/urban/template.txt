@@ -1,0 +1,17 @@
+---
+images:
+- /images/photography/urban/
+- /images/photography/urban/
+- /images/photography/urban/
+- /images/photography/urban/
+
+title: Lorem Epsom
+tags: 
+ - urban
+ - photography
+ - archive
+hideExif: true
+hideDate: true
+---
+
+Fujifilm X-H1 + Fuji XF 15-45mm

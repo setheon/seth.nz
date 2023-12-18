@@ -1,0 +1,12 @@
+<div id="submenu" class="text-center" style="font-size: 0.875em">
+        {{ $lastIndex := sub (len .Site.Menus.photography) 1 }}
+        {{ $currentPage := .RelPermalink }}
+        {{ range $i, $el := .Site.Menus.photography }}
+            {{ $active := "" }}
+            {{ if eq $el.URL $currentPage }}
+                {{ $active = "active" }}
+            {{ end }}
+            <a class="{{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
+            {{ if ne $i $lastIndex }} - {{ end }}
+        {{ end }}
+    </div>

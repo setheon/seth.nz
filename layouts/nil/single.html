@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+<body>
+    <section class="hero is-fullheight">
+        <div class="hero-body">
+            <div class="">
+                <div class="header-404">
+                    <img src="/eternity.png" alt="">
+                </div>
+                <div class="body-404">
+                    <p class="subtitle-404">Somehow you've ended up in no mans land... 
+                        <a href="{{ .Site.BaseURL }}"> <span style="color: #ff6474;">Go Home</span></a> </p>
+                    <p class="title-404">Error 404</p>
+                </div>
+            </div>
+        </div>
+    </section>
+{{ partial "footer.html" . }}

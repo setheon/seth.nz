@@ -1,0 +1,14 @@
+---
+images:
+- /images/photography/abstract/
+- /images/photography/abstract/
+- /images/photography/abstract/
+- /images/photography/abstract/
+title: Lorem Epsom
+tags: 
+ - abstract
+ - photography
+ - archive
+hideExif: true
+hideDate: true
+---
