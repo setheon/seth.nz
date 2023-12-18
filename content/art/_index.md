@@ -66,10 +66,16 @@ layout: art
 </style>
 
 <div align="center">
-    <h1>creative a
-    rt.</h1>
+    <h1>creative art.</h1>
 </div>
 
 **Digital art holds a special place in my heart.** I spent my childhood drawing on physical paper, I never truly grasped physical median. I always felt I was never good enough to call myself an Artist. That all changed the day I purchased a Wacom tablet back in 2017. All of a sudden I unlocked a new median, that provided me with a new way to approach my art. 
 
 **This is definitely the more fun side of my portfolio**, none of this work presentated is comission based and is purely just passion projects. I mainly only do comissions for more graphic design orientated work, but if you would like to discuss a comission for my art please <a style="color: #7EC2E6;" href="https://seth.nz/contact">Contact Me.</a> </strong>
+
+
+<div class="donate-button-container">
+<script 
+type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="setheon" data-color="#ffffff" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" >
+</script>
+</div>

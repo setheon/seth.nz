@@ -139,8 +139,8 @@ hideDate: true
 
 
 <div class="donate-button-container">
-  <a href="https://www.buymeacoffee.com/setheon/" class="donate-button">
-    <span style="color: #ffffff;" class="fab fa-dollar fa-lg"></span>
-    <span style="color: #ffffff; font-family:Open Sans Bold;" class="text">Buy me a Coffee</span>
-  </a>
+<script 
+type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="setheon" data-color="#ffffff" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" >
+</script>
 </div>
+
