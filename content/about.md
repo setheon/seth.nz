@@ -96,6 +96,9 @@ hideDate: true
   var imageUrl = "/images/author.png"; // Replace with the actual path to your image
 
   var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills & passion for the visual arts/film. <br> <br> <b>✨ I originally hail from Tauranga here in New Zealand,</b> but I now mostly reside in the bustling artistic capital city of New Zealand, <b>Wellington!</b> I initially moved to the city for work but soon found my heart being drawn to heading to University to pursure my creative dreams in the Film Industry. <br><br> 🏔 <b> In my free time, I'm often found going on Hikes or small city adventures with my camera. </b> I love to capture the world around me & I'm typically not found without my camera near. When I'm not taking photos or hiking, I typically spend my time dabbling in various forms of art, from sketching to digital art or creating music.";
+  //
+  /* b>In late 2023, I started to plan my first major Film,</b> a small sci-fi short called <b>Sol.</b> I quickly gathered a large crew & secured the means to start pre-production. The film will commence shooting in March 2024 & will continute for several months. <b>Sol</b> is a very ambitious project, with a large crew of over 25 people now. A team of 6 VFX artists, 3 actors, 2 stunt actors & a large crew. <br><br>
+  [stay tuned for more on Sol] */
 
   // Create the HTML string with both text and image
   var htmlString = "<div id='content-container'><p>" + text + "</p><img id='author-image' src='" + imageUrl + "' alt=''></div>";
@@ -139,7 +142,7 @@ hideDate: true
 
 <b>Currently this website '<i>seth.nz</i>' serves as a digital sanctuary & portfolio for all my best creative work. <br> </b> 
 
-Here, you will find a carefully curated collection of my photography & my other creative projects. As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking where I aim to craft compelling visual stories that resonate with audiences.<b>In late 2023, I started to plan my first major Film,</b> a small sci-fi short called <b>Sol.</b> I quickly gathered a large crew & secured the means to start pre-production. The film will commence shooting in March 2024 & will continute for several months. <b>Sol</b> is a very ambitious project, with a large crew of over 25 people now. A team of 6 VFX artists, 3 actors, 2 stunt actors & a large crew. <br><br>
+<b>Here, you will find a carefully curated collection of my photography & my other creative projects.</b> As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking where I aim to craft compelling visual stories that resonate with audiences.<br>
 
 <br>
 
