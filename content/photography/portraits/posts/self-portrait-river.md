@@ -1,8 +1,8 @@
 ---
 weight: 900
 images:
-- /images/photography/portraits/self-portraits/6.jpg
 - /images/photography/portraits/self-portraits/7.png
+- /images/photography/portraits/self-portraits/6.jpg
 
 title: Myself, Self Portraits 2023
 tags: 
