@@ -95,7 +95,8 @@ hideDate: true
 
   var imageUrl = "/images/author.png"; // Replace with the actual path to your image
 
-  var text = "<b>Hey there 👋 I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University doing a Bachelor of Screen Arts with a Major in Film Production, where I am honing my skills & passion for the visual arts/film. <br> <br> <b>✨ I originally hail from Tauranga here in New Zealand,</b> but I now mostly reside in the bustling artistic capital city of New Zealand, <b>Wellington!</b> I initially moved to the city for work but soon found my heart being drawn to heading to University to pursure my creative dreams in the Film Industry. <br><br> 🏔 <b> In my free time, I'm often found going on Hikes or small city adventures with my camera. </b> I love to capture the world around me & I'm typically not found without my camera near. When I'm not taking photos or hiking, I typically spend my time dabbling in various forms of art, from sketching to digital art or creating music.";
+  var text = "<b>Hey there 👋, I'm Seth, a " + yearsSince + "-year-old student based in Wellington, New Zealand.</b> I am currently studying at Massey University, pursuing a Bachelor of Screen Arts with a major in Film Production, where I am honing my skills and passion for the visual arts and film. <br> <br> <b>✨ I originally hail from Tauranga here in New Zealand,</b> but I now mostly reside in the bustling artistic capital city of New Zealand, <b>Wellington!</b> I initially moved to the city for work but soon found my heart being drawn to heading to University to pursue my creative dreams in the Film Industry. <br><br> 🏔 <b> In my free time, I'm often found going on hikes or small city adventures with my camera. </b> I love to capture the world around me, and I'm typically not found without my camera near. When I'm not taking photos or hiking, I typically spend my time dabbling in various forms of art, from sketching to digital art or creating music.";
+
   //
   /* b>In late 2023, I started to plan my first major Film,</b> a small sci-fi short called <b>Sol.</b> I quickly gathered a large crew & secured the means to start pre-production. The film will commence shooting in March 2024 & will continute for several months. <b>Sol</b> is a very ambitious project, with a large crew of over 25 people now. A team of 6 VFX artists, 3 actors, 2 stunt actors & a large crew. <br><br>
   [stay tuned for more on Sol] */
@@ -139,10 +140,12 @@ hideDate: true
     <h2>about my portfolio site.</h2>
 </div>
 
+<b>Currently, this website '<i>seth.nz</i>' serves as a digital sanctuary and portfolio for all my best creative work.</b> 
 
-<b>Currently this website '<i>seth.nz</i>' serves as a digital sanctuary & portfolio for all my best creative work. <br> </b> 
+<br>
 
-<b>Here, you will find a carefully curated collection of my photography & my other creative projects.</b> As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking where I aim to craft compelling visual stories that resonate with audiences.<br>
+<b>Here, you will find a carefully curated collection of my photography and my other creative projects.</b> As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking, where I aim to craft compelling visual stories that resonate with audiences.<br>
+
 
 <br>
 
@@ -156,4 +159,3 @@ hideDate: true
 type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="setheon" data-color="#ffffff" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" >
 </script>
 </div>
-
