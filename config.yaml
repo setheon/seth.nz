@@ -7,7 +7,7 @@ googleAnalytics: 'G-85HE9BS0ZN' # todo: set your analytics id.
 params:
   image: /background.jpg
   logo: logo.png # todo: add your custom logo to static/
-  subtitle: www.seth.nz is the home of Seth Copeland's collective art works. # todo: change default subtitle for your website.
+  subtitle: www.seth.nz is the home of Seth's collective art works. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Seth Copeland # todo: set your full name.
   dontShowSource: false # please, do not do this :)
