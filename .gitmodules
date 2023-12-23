@@ -1,3 +1,6 @@
 [submodule "eternity"]
 	path = eternity
 	url = https://github.com/boratanrikulu/eternity.git
+[submodule "themes/hugo-redirect"]
+	path = themes/hugo-redirect
+	url = https://github.com/gcc42/hugo-redirect.git

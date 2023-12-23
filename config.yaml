@@ -1,7 +1,7 @@
 baseURL: / # todo: change site url.
 title: seth.nz # todo: change site name.
 defaultContentLanguage: 'en'
-theme: eternity
+theme: ["hugo-redirect", "eternity"]
 googleAnalytics: 'G-85HE9BS0ZN' # todo: set your analytics id.
 
 params:
