@@ -74,7 +74,7 @@ url: photography
 
 <strong> Showcased below is my personally curated work. <br> 
 If you are interested in collaborations or wish to request a commission please 
-<a style="color: #7EC2E6;" href="https://seth.nz/contact">Contact Me</a> </strong>
+<a style="color: #7EC2E6;" href="https://links.seth.nz/">Contact Me</a> </strong>
 
 
 <div align="center">
