@@ -3,7 +3,6 @@ weight: 1000
 images:
 - /images/photography/portraits/nianyi/0.jpg
 - /images/photography/portraits/nianyi/1-2.jpg
-- /images/photography/portraits/nianyi/1.jpg
 - /images/photography/portraits/nianyi/6.jpg
 - /images/photography/portraits/nianyi/7.jpg
 - /images/photography/portraits/nianyi/3.jpg
