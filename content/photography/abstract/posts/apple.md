@@ -1,7 +1,7 @@
 ---
 weight: 980
 images:
-- /images/photography/nature/apple.png
+- /images/photography/abstract/apple.png
 title: Apple
 tags: 
 - abstract
