@@ -10,3 +10,8 @@ tags:
 hideExif: true
 hideDate: true
 ---
+
+# Lake Okareka Duck 2023
+
+Fuji X-H1 
+XF 15-45mm + 4mm Pinhole Filter
