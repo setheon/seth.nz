@@ -88,10 +88,15 @@ hideDate: true
 </div>
 
 <script>
-  // Calculate the number of years since a particular date
   var startDate = new Date("2002-03-14");
   var currentDate = new Date();
-  var yearsSince = currentDate.getFullYear() - startDate.getFullYear();
+  
+  // Check if the birthday has occurred this year
+  var hasBirthdayOccurred = (currentDate.getMonth() > startDate.getMonth() || 
+                             (currentDate.getMonth() === startDate.getMonth() && currentDate.getDate() >= startDate.getDate()));
+
+  // Adjust the age based on whether the birthday has occurred this year or not
+  var yearsSince = currentDate.getFullYear() - startDate.getFullYear() - (hasBirthdayOccurred ? 0 : 1);
 
   var imageUrl = "/images/author.png"; // Replace with the actual path to your image
 
