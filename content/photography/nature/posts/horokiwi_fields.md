@@ -1,10 +1,10 @@
 ---
-weight: 940
+weight: 950
 images:
-- /images/photography/nature/horokiwi/15.jpg
-- /images/photography/nature/horokiwi/14.jpg
-- /images/photography/nature/horokiwi/17.jpg
-- /images/photography/nature/horokiwi/16.jpg
+- /images/photography/nature/horokiwi/Horokiwi2.jpg
+- /images/photography/nature/horokiwi/Horokiwi1.jpg
+- /images/photography/nature/horokiwi/Horokiwi25.jpg
+- /images/photography/nature/horokiwi/Horokiwi24.jpg
 title: Horokiwi, Foggy Morning 2024
 tags: 
  - nature

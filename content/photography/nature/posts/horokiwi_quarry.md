@@ -1,10 +1,10 @@
 ---
 weight: 940
 images:
-- /images/photography/nature/horokiwi/11.jpg
-- /images/photography/nature/horokiwi/10.jpg
-- /images/photography/nature/horokiwi/13.jpg
-- /images/photography/nature/horokiwi/12.jpg
+- /images/photography/nature/horokiwi/Horokiwi11.jpg
+- /images/photography/nature/horokiwi/Horokiwi10.jpg
+- /images/photography/nature/horokiwi/Horokiwi13.jpg
+- /images/photography/nature/horokiwi/Horokiwi12.jpg
 title: Horokiwi Quarry, Foggy Morning 2024
 tags: 
  - nature
