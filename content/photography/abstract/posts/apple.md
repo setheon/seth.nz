@@ -4,9 +4,9 @@ images:
 - /images/photography/abstract/apple.png
 title: Apple
 tags: 
-- abstract
+- archive
 - photography
-- nature
+- abstract
 hideExif: true
 hideDate: true
 ---

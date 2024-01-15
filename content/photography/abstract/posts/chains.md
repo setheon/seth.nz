@@ -4,9 +4,9 @@ images:
 - /images/photography/abstract/chains.jpg
 title: Pile of Chains 2023
 tags: 
-- abstract
+- archive
 - photography
-- nature
+- abstract
 hideExif: true
 hideDate: true
 ---
