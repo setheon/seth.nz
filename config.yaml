@@ -31,7 +31,7 @@ params:
       url: 'https://www.youtube.com/@setheon'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/setheon.nz'
+      url: 'https://instagram.com/fujiseth'
       landing: true
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/seth-copeland-524b50246/'
