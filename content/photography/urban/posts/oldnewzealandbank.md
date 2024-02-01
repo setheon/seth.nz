@@ -1,5 +1,4 @@
 ---
-weight: 500
 images:
 - /images/photography/urban/oldbank.jpg
 title: Old New Zealand Bank Arcade 2023
