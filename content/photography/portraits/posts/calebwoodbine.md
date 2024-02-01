@@ -1,10 +1,10 @@
 ---
 images:
-- /images/photography/portraits/caleb/2.png
-- /images/photography/portraits/caleb/5.png
-- /images/photography/portraits/caleb/4.png
-- /images/photography/portraits/caleb/1.png
-- /images/photography/portraits/caleb/3.png
+- /images/photography/portraits/caleb/2.jpg
+- /images/photography/portraits/caleb/5.jpg
+- /images/photography/portraits/caleb/4.jpg
+- /images/photography/portraits/caleb/1.jpg
+- /images/photography/portraits/caleb/3.jpg
 title: Caleb Woodbine, Photoshoot 2021
 tags: 
 - archive
@@ -18,4 +18,4 @@ hideDate: true
 # Caleb Woodbine, Photoshoot 2021
 
 A small collection of portrait photos I took of my old friend Caleb Woodbine. <br>
-Shot with a Fuji X-T200 + Fuji XF 15-45mm f3.5
+Shot with a Fuji X-T200 + Fuji XF 15-45mm 

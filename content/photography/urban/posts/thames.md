@@ -1,9 +1,9 @@
 ---
 images:
-- /images/photography/urban/thames/ThamesArchive5.png
-- /images/photography/urban/thames/ThamesArchive6.png
-- /images/photography/urban/thames/ThamesArchive9.png
-- /images/photography/urban/thames/ThamesArchive10.png
+- /images/photography/urban/thames/ThamesArchive5.jpg
+- /images/photography/urban/thames/ThamesArchive6.jpg
+- /images/photography/urban/thames/ThamesArchive9.jpg
+- /images/photography/urban/thames/ThamesArchive10.jpg
 - /images/photography/urban/thames/ThamesArchive3.jpg
 title: Thames 2023
 tags: 

@@ -1,6 +1,6 @@
 ---
 images:
-- /images/photography/abstract/lens.png
+- /images/photography/abstract/lens.jpg
 title: Vintage Lenses
 tags: 
 - archive

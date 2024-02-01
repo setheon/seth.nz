@@ -1,8 +1,7 @@
 ---
-weight: 998
 images:
-- /images/photography/portraits/mudpits/mud2.png
-- /images/photography/portraits/mudpits/mud1.png
+- /images/photography/portraits/mudpits/mud2.jpg
+- /images/photography/portraits/mudpits/mud1.jpg
 title: Easter Camp Mudpits, 2021
 tags: 
 - archive

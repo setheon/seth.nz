@@ -1,9 +1,11 @@
 ---
+weight: -1
 images:
-- /images/photography/portraits/penelope/penelope_B&W1.jpg
+
 - /images/photography/portraits/penelope/penelope_1.jpg
-- /images/photography/portraits/penelope/penelope_B&W2.jpg
 - /images/photography/portraits/penelope/penelope_2.jpg
+- /images/photography/portraits/penelope/penelope_B&W1.jpg
+- /images/photography/portraits/penelope/penelope_B&W2.jpg
 title: Penelope Dalmon, Photoshoot 2021
 tags: 
 - archive

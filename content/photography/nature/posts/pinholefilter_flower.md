@@ -1,7 +1,7 @@
 ---
 weight: 980
 images:
-- /images/photography/nature/flower2.png
+- /images/photography/nature/flower2.jpg
 title: DIY 4mm Pinhole Filter Experiment
 tags: 
 - archive

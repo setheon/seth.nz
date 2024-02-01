@@ -1,5 +1,4 @@
 ---
-weight: 990
 images:
 - /images/photography/urban/windows.jpg
 

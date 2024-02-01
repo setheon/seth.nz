@@ -2,7 +2,7 @@
 weight: 980
 images:
 - /images/photography/abstract/containers/2.jpg
-- /images/photography/abstract/containers/1.png
+- /images/photography/abstract/containers/1.jpg
 title: Tauranga Containers 2023
 tags: 
 - archive

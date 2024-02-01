@@ -1,6 +1,7 @@
 ---
 weight: 940
 images:
+- /images/photography/nature/horokiwi/Horokiwi28.jpg
 - /images/photography/nature/horokiwi/Horokiwi15.jpg
 - /images/photography/nature/horokiwi/Horokiwi14.jpg
 - /images/photography/nature/horokiwi/Horokiwi17.jpg

@@ -1,5 +1,4 @@
 ---
-weight: 980
 images:
 - /images/photography/abstract/windflag.jpg
 title: Wind Indicator Flag, Wellington Airport 2023

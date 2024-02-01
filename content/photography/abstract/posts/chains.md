@@ -1,5 +1,4 @@
 ---
-weight: 980
 images:
 - /images/photography/abstract/chains.jpg
 title: Pile of Chains 2023

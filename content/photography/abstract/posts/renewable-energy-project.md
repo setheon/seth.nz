@@ -1,5 +1,4 @@
 ---
-weight: 980
 images:
 - /images/photography/abstract/renewable_energy_project/3.jpg
 - /images/photography/abstract/renewable_energy_project/2.jpg

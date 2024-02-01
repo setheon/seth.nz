@@ -1,12 +1,12 @@
 ---
 weight: 980
 images:
-- /images/photography/abstract/quarryridge/quarry1.png
-- /images/photography/abstract/quarryridgequarry2.png
-- /images/photography/abstract/quarryridgequarry3.png
-- /images/photography/abstract/quarryridgequarry4.png
-- /images/photography/abstract/quarryridgequarry5.png
-title: Quarry Ridge Abstract, 2023
+- /images/photography/abstract/quarryridge/quarry1.jpg
+- /images/photography/abstract/quarryridge/quarry2.jpg
+- /images/photography/abstract/quarryridge/quarry3.jpg
+- /images/photography/abstract/quarryridge/quarry4.jpg
+- /images/photography/abstract/quarryridge/quarry5.jpg
+title: Quarry Ridge Abstract, 2024
 tags: 
  - abstract
  - photography
@@ -15,7 +15,7 @@ hideExif: true
 hideDate: true
 ---
 
-# Quarry Ridge Abstract, 2023
+# Quarry Ridge Abstract, 2024
 
 Snapped these awesome photos of my friends goofing around on a ridge above me in a quarry pit. 
 

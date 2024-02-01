@@ -1,5 +1,5 @@
 ---
-weight: 998
+weight: 40
 images:
 - /images/photography/nature/birds/duck.jpg
 title: Lake Okareka Duck 2023
