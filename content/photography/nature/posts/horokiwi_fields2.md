@@ -1,5 +1,5 @@
 ---
-weight: 950
+weight: 979
 images:
 - /images/photography/nature/horokiwi/Horokiwi27.jpg
 - /images/photography/nature/horokiwi/Horokiwi26.jpg

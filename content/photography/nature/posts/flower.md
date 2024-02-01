@@ -1,5 +1,4 @@
 ---
-weight: 980
 images:
 - /images/photography/nature/flower1.jpg
 title: Flower with water droplet.

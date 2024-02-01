@@ -1,5 +1,5 @@
 ---
-weight: 980
+weight: 976
 images:
 - /images/photography/abstract/containers/2.jpg
 - /images/photography/abstract/containers/1.jpg

@@ -1,5 +1,5 @@
 ---
-weight: 980
+weight: 978
 images:
 - /images/photography/abstract/quarryfire/quarryfire.jpg
 title: Quarry Fire Pit Abstract, 2024

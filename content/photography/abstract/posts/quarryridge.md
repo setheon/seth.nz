@@ -1,11 +1,12 @@
 ---
-weight: 980
+weight: 990
 images:
-- /images/photography/abstract/quarryridge/quarry1.jpg
+
+- /images/photography/abstract/quarryridge/quarry5.jpg
 - /images/photography/abstract/quarryridge/quarry2.jpg
 - /images/photography/abstract/quarryridge/quarry3.jpg
 - /images/photography/abstract/quarryridge/quarry4.jpg
-- /images/photography/abstract/quarryridge/quarry5.jpg
+- /images/photography/abstract/quarryridge/quarry1.jpg
 title: Quarry Ridge Abstract, 2024
 tags: 
  - abstract
