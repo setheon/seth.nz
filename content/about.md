@@ -124,6 +124,7 @@ hideDate: true
     max-width: 100%;
     width: 300px;
     margin-top: 20px; /* Add some space between text and image */
+    margin-left: 25px;
   }
 
   @media (min-width: 768px) {
@@ -146,8 +147,6 @@ hideDate: true
 </div>
 
 <b>Currently, this website '<i>seth.nz</i>' serves as a digital sanctuary and portfolio for all my best creative work.</b> 
-
-<br>
 
 <b>Here, you will find a carefully curated collection of my photography and my other creative projects.</b> As my creative journey progresses, I am excited to expand my creative horizons into the realm of filmmaking, where I aim to craft compelling visual stories that resonate with audiences.<br>
 
